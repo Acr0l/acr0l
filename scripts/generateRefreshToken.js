@@ -1,11 +1,12 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable @typescript-eslint/camelcase */
-const dotenv = require("dotenv");
-const fs = require("fs");
-const fetch = require("node-fetch");
-const querystring = require("querystring");
-const http = require("http");
-const open = require("open");
+import dotenv from "dotenv";
+import fs from "fs";
+import http from "http";
+import fetch from "node-fetch";
+import open from "open";
+import querystring from "querystring";
+dotenv.config();
 
 if (fs.existsSync(".env")) {
   console.log("Using .env file to supply config environment variables");
