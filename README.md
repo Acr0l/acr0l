@@ -58,7 +58,7 @@ hobbies: ["Basketball", "Read", "Watch anime", "Play the guitar"]
 <p align="center">
   <img src="https://acr0l.vercel.app/api/top-played">
 </p>
- 
+
 ```yaml
 section: spotify components info
 original_idea: natemoo-re
@@ -69,18 +69,13 @@ improved_by: andyruwruw
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 💪 Opened PR [#5](https://github.com/cmrobotics/cmr_tests_utils/pull/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-4. ❌ Closed PR [#4](https://github.com/cmrobotics/cmr_tests_utils/pull/4) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-5. 🗣 Commented on [#4](https://github.com/cmrobotics/cmr_tests_utils/issues/4) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=acr0l&custom_title=Seba's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hours-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
@@ -110,7 +105,7 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Chile/Continental
 
 💬 Programming Languages:
 No Activity Tracked This Week
@@ -120,7 +115,7 @@ No Activity Tracked This Week
 
 ```
 
-Last Updated on 29/05/2022 17:04:31 UTC
+Last Updated on 01/06/2022 4:04:31 UTC
 
 <!--END_SECTION:waka-->
 
