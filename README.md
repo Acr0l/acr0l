@@ -76,7 +76,7 @@ improved_by: andyruwruw
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161%20Thousand%20lines%20of%20code-blue)
 
@@ -109,17 +109,18 @@ Sunday       39 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-JavaScript               50 mins             █████████████████████████   99.93% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JSON                     19 mins             ████████████████░░░░░░░░░   66.89% 
+XML                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.79%
 
 🐱‍💻 Projects: 
-Volunteen-1              36 mins             █████████████████░░░░░░░░   71.17% 
-Volunteener              14 mins             ███████░░░░░░░░░░░░░░░░░░   28.83%
+Volunteen-1              28 mins             █████████████████████████   100.0% 
+Volunteener              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 29/07/2022 17:00:33 UTC
+ Last Updated on 04/08/2022 17:03:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
