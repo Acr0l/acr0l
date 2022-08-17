@@ -74,7 +74,7 @@ improved_by: andyruwruw
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=acr0l&custom_title=Seba's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,18 +109,18 @@ Sunday       39 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-JavaScript               2 hrs 31 mins       ████████████████████████░   98.01% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+JavaScript               2 hrs 31 mins       ███████████████████████░░   93.75% 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.09% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 🐱‍💻 Projects: 
-client                   2 hrs 33 mins       ████████████████████████░   99.19% 
-Volunteen-1              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+client                   2 hrs 33 mins       ███████████████████████░░   94.87% 
+Volunteen-1              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
 
- Last Updated on 15/08/2022 17:04:50 UTC
+ Last Updated on 17/08/2022 17:06:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
